@@ -241,3 +241,12 @@ fun MyText(
     )
 }
 ```
+### Additional:
+```Kotlin
+    import com.phucdx.currency.ext.calc.currencyCalc
+
+    currencyCalc.add("123", "321")
+    currencyCalc.subtract("123", "321")
+    currencyCalc.multiply("123", "321")
+    currencyCalc.divide("123", "321")
+```
