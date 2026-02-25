@@ -256,3 +256,5 @@ fun MyText(
     currencyCalc.multiply("123", "321")
     currencyCalc.divide("123", "321")
 ```
+### Note:
+Contact me to have full lib for use.
